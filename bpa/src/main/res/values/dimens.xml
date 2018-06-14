@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- ****************全局统一字体大小 ************ -->
+    <!-- 全局统一大号字体 -->
+    <dimen name="font_size_big_big">20sp</dimen>
+    <!-- 全局统一大号字体 -->
+    <dimen name="font_size_big">18sp</dimen>
+    <!-- 全局统一中号字体 -->
+    <dimen name="font_size_middle">16sp</dimen>
+    <!-- 全局统一正文号字体 -->
+    <dimen name="font_size_normal">14sp</dimen>
+    <!-- 全局统一小号字体 -->
+    <dimen name="font_size_little">12sp</dimen>
+    <!-- 全局统一最小号字体 -->
+    <dimen name="font_size_least">10sp</dimen>
+    <!-- titleview高度 -->
+    <dimen name="title_bar_height">@dimen/distance_48</dimen>
+
+    <!-- 间距 -->
+    <dimen name="distance_5">5dp</dimen>
+    <dimen name="distance_10">10dp</dimen>
+    <dimen name="distance_15">15dp</dimen>
+    <dimen name="distance_20">20dp</dimen>
+    <dimen name="distance_45">45dp</dimen>
+    <dimen name="distance_48">48dp</dimen>
+    <dimen name="distance_50">50dp</dimen>
+    <dimen name="distance_100">100dp</dimen>
+    <!--<dimen name="distance_325">325dp</dimen>-->
+
+</resources>

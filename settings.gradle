@@ -1,0 +1,4 @@
+include ':bpa'
+//, ':bpademo',':JPushLib'
+//include ':app'
+//include ':bpa', ':galleryfinal', ':bpademo'
